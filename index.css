@@ -124,7 +124,7 @@ body {
   padding: 2px;
   background: pink;
   color: black;
-  border-radius: 8px;
+  border-radius: 6px;
   cursor: pointer;
   border: 2px solid black;
   display: flex;
@@ -135,7 +135,7 @@ body {
 
 }
 .btn{
- width: 40px;
+ width: 60px;
  
 }
 
