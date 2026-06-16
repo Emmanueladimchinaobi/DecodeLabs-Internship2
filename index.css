@@ -37,6 +37,8 @@ body {
   justify-content: center;
   align-items: center;
   display: flex;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bolder;
 }
 
 .sidebar {
@@ -133,18 +135,13 @@ body {
  width: 60px;
  display: flex;
  gap:3px;
- font: bold;
- 
-  
-
+  font-weight: bolder;
 }
 .btn{
  width: 60px;
  display: flex;
-  gap:3px;
- font: bold;
- 
 }
+
 
 /* TABLET */
 @media (max-width: 992px) {
