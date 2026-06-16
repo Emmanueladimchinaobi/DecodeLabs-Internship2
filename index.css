@@ -141,6 +141,8 @@ body {
 .btn{
  width: 60px;
  display: flex;
+  gap:3px;
+ font: bold;
  
 }
 
