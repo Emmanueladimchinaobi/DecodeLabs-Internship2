@@ -131,12 +131,15 @@ body {
  justify-content: center;
  align-items: center;
  width: 60px;
+ display: flex;
+ gap:3px;
  
   
 
 }
 .btn{
  width: 60px;
+ display: flex;
  
 }
 
